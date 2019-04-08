@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554307288 source:c:\users\micah\desktop\csc-339 p\m_rober4_undergrad\m_rober4_undergrad.cpp
+	"M_rober4_Undergrad.h"
+
+1554307354 c:\users\micah\desktop\csc-339 p\m_rober4_undergrad\m_rober4_undergrad.h
+	<cstring>
+	<iostream>
+	<fstream>
+	<list>
+	<vector>
+	<sstream>
+	<typeinfo>
+	<iomanip>
+	<array>
+	<algorithm>
+

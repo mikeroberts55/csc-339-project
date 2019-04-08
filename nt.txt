@@ -1,0 +1,6 @@
+"Mary", "000111222", "Junior", 12, 4.6
+"Barry", "111222333", "Senior", 9, 3.2
+"Larry", "222333444", "Freshman", 12, 1.4
+"Billy", "333444555", "Freshman", 7, 2.4
+"Sally", "444555664", "Junior", 3, 4.5
+"Kelly", "123456789", "Senior", 12, 1.5
